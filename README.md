@@ -6,7 +6,7 @@
 
 I'm a Computer Science Student 😊.  
 💻 Worked on many different technologies.  
-📜 Created many useful Python Scripts for Students like File Downloader and Handler, Deep Search, Automation Scripts, etc.  
+📜 Java, Objective-c, Swift, Kotlin, JavaScript, PureScript, Android, IOS etc.  
 @@ -52,13 +53,19 @@ I'm a Computer Science Student 😊.
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit4997&theme=merko)](https://github.com/Rohit4997)
