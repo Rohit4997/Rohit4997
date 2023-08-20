@@ -4,7 +4,7 @@
 
 <a href="https://github.com/Rohit4997"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/rohit4997?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
 
-I'm a Computer Science Student 😊.  
+I'm a Frontend Developer @ <a href = "https://nammayatri.in/">Namma Yatri </a> 😊.  
 💻 Worked on many different technologies.  
 📜 Java, Objective-c, Swift, Kotlin, JavaScript, PureScript, Android, IOS, Frontend, Mobile Development etc.  
 
@@ -27,8 +27,7 @@ I'm a Computer Science Student 😊.
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohit4997)  
 <a><img alt="Rohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rohit4997&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
 
-### Connect With Me
-<a href="https://www.linkedin.com/in/rohit-4997/" target="_blank">
+<a href="https://www.linkedin.com/in/rohit-4997/" target="_blank">### Connect With Me</a>
 <!---
 rohi4997/rohi4997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
