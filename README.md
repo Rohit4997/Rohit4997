@@ -2,11 +2,11 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Rohit4997.visitor-badge)
 
-<a href="https://github.com/Rohit4997"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/rohi4997?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
+<a href="https://github.com/Rohit4997"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/rohit4997?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
 
 I'm a Computer Science Student 😊.  
 💻 Worked on many different technologies.  
-📜 Java, Objective-c, Swift, Kotlin, JavaScript, PureScript, Android, IOS etc.  
+📜 Java, Objective-c, Swift, Kotlin, JavaScript, PureScript, Android, IOS, Frontend, Mobile Development etc.  
 
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit4997&theme=merko)](https://github.com/Rohit4997)
@@ -24,7 +24,7 @@ I'm a Computer Science Student 😊.
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 <!-- </details> -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohi4997)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohit4997)  
 <a><img alt="Rohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rohit4997&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
 
 ### Connect With Me
