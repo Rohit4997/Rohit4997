@@ -28,7 +28,7 @@ I'm a Computer Science Student 😊.
 <a><img alt="Rohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rohit4997&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
 
 ### Connect With Me
-<a href="https://www.linkedin.com/in/Rohit4997/" target="_blank">
+<a href="https://www.linkedin.com/in/rohit-4997/" target="_blank">
 <!---
 rohi4997/rohi4997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
