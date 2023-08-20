@@ -7,7 +7,7 @@
 I'm a Computer Science Student 😊.  
 💻 Worked on many different technologies.  
 📜 Java, Objective-c, Swift, Kotlin, JavaScript, PureScript, Android, IOS etc.  
-@@ -52,13 +53,19 @@ I'm a Computer Science Student 😊.
+
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit4997&theme=merko)](https://github.com/Rohit4997)
 
