@@ -1,7 +1,3 @@
-Certainly! We can make your README more impressive by focusing on your skills, projects, GitHub contributions, and dynamic stats, while removing the "Professional Experience" part. Here's an updated version that utilizes more of GitHub's APIs and is visually engaging:
-
----
-
 ## Hey, I'm Rohit Dhakad! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Rohit4997&color=green&style=for-the-badge) ![Followers](https://img.shields.io/github/followers/Rohit4997?label=Followers&style=for-the-badge) ![Stars](https://img.shields.io/github/stars/Rohit4997?affiliations=OWNER&style=for-the-badge)  
@@ -84,15 +80,3 @@ Feel free to reach out for collaborations, discussions, or exciting opportunitie
 ### 🏆 **GitHub Badges:**
 
 ![Pull Shark](https://img.shields.io/badge/-Pull%20Shark-brightgreen?style=for-the-badge&logo=github) ![Quickdraw](https://img.shields.io/badge/-Quickdraw-yellow?style=for-the-badge&logo=github) ![YOLO](https://img.shields.io/badge/-YOLO-blue?style=for-the-badge&logo=github)
-
----
-
-This version adds:
-
-- **Tech Stack** with badges for a visually engaging experience.
-- **GitHub Stats** showcasing your contributions, languages, and activity.
-- **Dynamic Contribution Graph** using GitHub's activity API.
-- **Recent Activity** using GitHub Actions to display your latest work.
-- **Featured Projects** to highlight your most notable work.
-
-Let me know if you'd like to add any more details or further customizations!
