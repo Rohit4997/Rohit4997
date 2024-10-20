@@ -1,34 +1,41 @@
-## Hey, I'm Rohit Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Hey, I'm Rohit Dhakad! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Rohit4997.visitor-badge)
+visitor badge
 
-<a href="https://github.com/Rohit4997"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/rohit4997?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
+<a href="https://github.com/Rohit4997"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/rohit4997?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>
 
-I'm a Frontend Developer @ <a href = "https://nammayatri.in/">Namma Yatri </a> 😊.  
-💻 Worked on many different technologies.  
-📜 Java, Objective-c, Swift, Kotlin, JavaScript, PureScript, Android, IOS, Frontend, Mobile Development etc.  
+I'm a Product Engineer I @ <a href="https://nammayatri.in/">Namma Yatri</a> 🚀
+💻 Working on cutting-edge mobility solutions and revenue systems, scaling India's first open mobility platform!
+📜 Expertise in Java, Objective-C, JavaScript, PureScript, Android, iOS, Firebase, and App Release Management.
+💼 Professional Experience:
 
+    Namma Yatri (Moving Tech Innovations)
+        Developed and launched the Subscription System, a key revenue driver for the business, establishing financial independence.
+        Spearheaded the expansion of Namma Yatri, scaling the platform city by city and evolving it from an initial version to a robust monetization model.
+        Designed a flexible configuration system that manages 8-10 apps from a single code base, streamlining merchant management.
+        Delivered SDKs to Paytm and RedBus while integrating SDKs from Gullak and Hyperverge.
+        Enhanced app performance through data caching, reducing API calls, and optimizing app load times.
+        Revolutionized Location Services, ensuring precise real-time updates for drivers, improving pickup tracking, and automating wait-time triggers.
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit4997&theme=merko)](https://github.com/Rohit4997)
+    JUSPAY (Mobile App Developer Intern)
+        Built India's first open mobility app (Namma Yatri) from scratch.
+        Streamlined app updates for multiple merchants and optimized Google Maps API usage to reduce costs.
 
-📈 My GitHub Stats
-## 📊 Github stats
+⚙️ Skills:
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Rohit4997&show_icons=true&theme=gotham" alt="Rohit4997" />
-<!-- <details>  -->
-<!--   <summary>💻 GitHub Profile Stats</summary> -->
-  <br/>
-    <a><img alt="Rohit's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rohit4997&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <a><img alt="Rohit's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rohit4997&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <br/>
-<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-<!-- </details> -->
+    Languages: C/C++, Java, JavaScript, Objective-C, PureScript, Kotlin (Beginner)
+    Platforms: Android & iOS Development
+    Tools: Firebase, Jenkins, Git & GitHub, Google Play Console, Debugging, App Release Management
+    Methodologies: Functional Programming
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rohit4997)  
-<a><img alt="Rohit's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Rohit4997&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
+📊 GitHub Stats
+<p align="center"> <a><img alt="Rohit's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rohit4997&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a> <a><img alt="Rohit's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Rohit4997&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a> </p>
 
-<a href="https://www.linkedin.com/in/rohit-4997/" target="_blank">### Connect With Me</a>
-<!---
-rohi4997/rohi4997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+GitHub Activity Graph
+📈 Contribution Stats:
+
+    447 contributions in the past year with GitHub badges - Pull Shark, Quickdraw, YOLO.
+
+📱 Connect with Me:
+
+<a href="https://www.linkedin.com/in/rohit-4997/" target="_blank">LinkedIn</a> | GitHub
