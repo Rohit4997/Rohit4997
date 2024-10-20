@@ -38,45 +38,69 @@ Hi, I’m a **Product Engineer I** @ [Namma Yatri](https://nammayatri.in/), pass
 
 ---
 
-### 🔥 **Dynamic Contribution Graph:**
+### 🌟 What I Do
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rohit4997&bg_color=1F222E&color=F85D7F&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
----
-
-### 🌟 **Recent Activity & Projects:**
-
-<!--START_SECTION:activity-->
-1. 🚀 Deployed a new release to [Namma Yatri](https://github.com/Rohit4997/nammayatri)
-2. 🎉 Merged a PR in [Rohit4997/my_project](https://github.com/Rohit4997/my_project)
-3. 🛠 Improved performance in [Namma Yatri SDK](https://github.com/Rohit4997/nammayatri-sdk)
-<!--END_SECTION:activity-->
+- **Mobile App Development**: Specializing in developing apps for **Android** and **iOS** using **React Native** and native languages like **Java** and **Objective-C**.
+- **Cross-Platform Optimization**: Ensuring that apps are performant across both platforms through caching, API call optimization, and reusable components.
+- **Open Source Enthusiast**: I love contributing to open-source projects that improve accessibility, performance, and user experience in mobile apps.
 
 ---
 
-### 🔨 **Featured Projects:**
+### 🏆 Achievements & Contributions
 
-#### **Namma Yatri - Open Mobility Platform**
-- **Technologies:** Java, Objective-C, PureScript
-- **Description:** India’s first open mobility platform with zero commission for drivers. Focused on transparency and efficiency.
-- **Highlights:** Built from the ground up, integrated payment solutions, optimized Google Maps API calls for cost efficiency.
-
-#### **E-commerce Gym App**
-- **Technologies:** Java, Firebase, Android
-- **Description:** A platform to manage gym memberships, local businesses, and fitness services.
-- **Highlights:** Created dynamic UI, implemented Firebase for data management.
+- **GitHub Contributions**: Over **447 contributions** in the last year, earning badges like **Pull Shark**, **Quickdraw**, and **YOLO**.
+- **Open Source Contributions**: Actively working on open-source projects in the mobile app development space, including creating reusable components for faster app scaling.
 
 ---
 
-### 📬 **Connect with Me:**
+### 🔥 My Tech Stack
 
-<a href="https://www.linkedin.com/in/rohit-4997/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>  
-Feel free to reach out for collaborations, discussions, or exciting opportunities! 😄
+- **Languages**: Java, Objective-C, JavaScript, PureScript, Typescript, C/C++, Kotlin (Beginner)
+- **Mobile Development**: Android SDK, iOS Development, React Native
+- **Dev Tools**: Firebase, Google Play Console, Jenkins, GitHub Actions, App Release Management
+- **Other Skills**: Functional Programming (Haskell, PureScript), Debugging, Git & GitHub
 
 ---
 
-### 🏆 **GitHub Badges:**
+### 📈 GitHub Stats
 
-![Pull Shark](https://img.shields.io/badge/-Pull%20Shark-brightgreen?style=for-the-badge&logo=github) ![Quickdraw](https://img.shields.io/badge/-Quickdraw-yellow?style=for-the-badge&logo=github) ![YOLO](https://img.shields.io/badge/-YOLO-blue?style=for-the-badge&logo=github)
+[![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit4997&show_icons=true&theme=gotham)](https://github.com/Rohit4997)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit4997&langs_count=8&theme=gotham&layout=compact)](https://github.com/Rohit4997)
+
+---
+
+### 🌱 Learning Goals
+
+- **Kotlin**: Diving deeper into Android development with Kotlin.
+- **Swift**: Expanding my iOS development skills.
+- **TypeScript**: Applying type safety in JavaScript-based mobile apps for a more robust codebase.
+
+---
+
+### 🎯 Career Goals
+
+- **Innovating in Mobility**: Passionate about revolutionizing the transportation sector with tech-driven solutions, reducing inefficiencies, and making transportation accessible to all.
+- **Scaling Mobile Platforms**: Building scalable and high-performing mobile platforms that can handle millions of users seamlessly.
+
+---
+
+### ✨ Personal Interests
+
+- **Functional Programming**: I enjoy learning and experimenting with languages like **PureScript** and **Haskell** that push my understanding of programming paradigms.
+- **Continuous Learning**: Whether it’s improving my mobile development skills or learning a new language, I love staying up-to-date with the latest in tech.
+
+---
+
+### 📫 Let's Connect!
+
+- **[LinkedIn](https://www.linkedin.com/in/rohit-4997/)**
+- **[GitHub](https://github.com/Rohit4997)**
+- **Email**: [rohitrkd4997@gmail.com](mailto:rohitrkd4997@gmail.com)
+
+---
+
+### 🌍 Fun Facts
+
+- I'm an open-source enthusiast with a passion for solving real-world problems through technology.
+- I regularly contribute to projects that help improve mobile development practices across both **Android** and **iOS** platforms.
