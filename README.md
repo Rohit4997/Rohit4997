@@ -62,14 +62,6 @@ Hi, I’m a **Product Engineer I** @ [Namma Yatri](https://nammayatri.in/), pass
 
 ---
 
-### 📈 GitHub Stats
-
-[![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit4997&show_icons=true&theme=gotham)](https://github.com/Rohit4997)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit4997&langs_count=8&theme=gotham&layout=compact)](https://github.com/Rohit4997)
-
----
-
 ### 🌱 Learning Goals
 
 - **Kotlin**: Diving deeper into Android development with Kotlin.
