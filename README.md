@@ -2,7 +2,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Rohit4997&color=green&style=for-the-badge) ![Followers](https://img.shields.io/github/followers/Rohit4997?label=Followers&style=for-the-badge) ![Stars](https://img.shields.io/github/stars/Rohit4997?affiliations=OWNER&style=for-the-badge)  
 
-Hi, I’m a **Product Engineer I** @ [Namma Yatri](https://nammayatri.in/), passionate about creating scalable mobile applications that bring value to users and businesses alike! I love working with a wide range of technologies to solve complex problems.
+Hi, I’m a **Product Engineer** @ [Namma Yatri](https://nammayatri.in/), passionate about creating scalable mobile applications that bring value to users and businesses alike! I love working with a wide range of technologies to solve complex problems.
 
 ---
 
