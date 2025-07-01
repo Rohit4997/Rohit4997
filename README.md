@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=🚀+Software+Development+Engineer+(SDE-1);📱+Mobile+%26+Backend+Architecture+Wizard;🧠+Functional+Programming+Enthusiast;🎯+Building+Scalable+Real-World+Solutions;⚡+React+Native+%7C+Node.js+%7C+Kafka+Expert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=🚀+Software+Development+Engineer+(SDE-1);📱+Mobile+%26+React+Native+Architecture+Wizard;🧠+Functional+Programming+Enthusiast;🎯+Building+Scalable+Real-World+Solutions;⚡+Backend+%7C+Node.js+%7C+Kafka+%7CClickhouse)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="460" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```javascript
 const rohit = {
@@ -160,11 +160,66 @@ graph TD
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- 🧬 **Kotlin Multiplatform (KMP)** - Building cross-platform mobile solutions
+- 🧬 **AI-Powered-Development** - Building cross-platform mobile solutions using AI
 - 🔥 **Event-Driven Architecture** with Apache Kafka streams
 - 📱 **Performance Optimization** - Mobile app profiling & diagnostics  
 - ⚡ **TurboModules & Native Modules** in React Native
 - 🤖 **AI/ML Integration** in mobile applications
+
+---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="32"> Developer Insights
+
+<div align="center">
+
+### ⏰ **Coding Activity**
+
+[![wakatime](https://wakatime.com/badge/user/018c8e6c-2c2f-49ca-9cce-5a12da7f47b5.svg)](https://wakatime.com/@018c8e6c-2c2f-49ca-9cce-5a12da7f47b5)
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   8 hrs 42 mins   ████████████░░░░░░░░░░░░░   48.32%
+TypeScript   4 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   23.65%
+Kotlin       2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.94%
+Java         1 hr 25 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.89%
+JSON         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20%
+```
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="25"> Fun Zone & Personal Touch
+
+<div align="center">
+
+### 🎮 **When I'm Not Coding**
+
+```javascript
+const lifestyle = {
+    🎯: "Architecting scalable solutions",
+    ☕: "Brewing the perfect cup of code",
+    🎮: "Gaming & exploring new tech",
+    📚: "Learning functional programming",
+    🎵: "Vibing to lo-fi while debugging",
+    💡: "Ideating the next big thing",
+    🏃: "Running marathons (code & actual)",
+    🎨: "UI/UX design experiments",
+    🌱: "Contributing to open source"
+};
+
+const currentMood = () => {
+    const moods = ['🚀 Building', '🔥 Debugging', '💡 Innovating', '📱 Shipping'];
+    return moods[Math.floor(Math.random() * moods.length)];
+};
+```
+
+### 🎵 **Currently Vibing To**
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k6zcamgwwepktbalml7jlhihxi&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31k6zcamgwwepktbalml7jlhihxi&redirect=true)
+
+</div>
 
 ---
 
@@ -180,26 +235,15 @@ graph TD
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](#)
 
+### 📫 **Response Time Stats**
+
+![Email Response](https://img.shields.io/badge/Email-<24hrs-brightgreen?style=flat-square&logo=gmail)
+![LinkedIn Response](https://img.shields.io/badge/LinkedIn-<12hrs-blue?style=flat-square&logo=linkedin)
+![GitHub](https://img.shields.io/badge/GitHub-Active-orange?style=flat-square&logo=github)
+
 </div>
 
 ---
-
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="25"> Fun Zone
-
-<div align="center">
-
-### 🎮 **When I'm Not Coding**
-
-```javascript
-const hobbies = {
-    🎯: "Architecting scalable solutions",
-    ☕: "Brewing the perfect cup of code",
-    🎮: "Gaming & exploring new tech",
-    📚: "Learning functional programming",
-    🎵: "Vibing to lo-fi while debugging",
-    💡: "Ideating the next big thing"
-};
-```
 
 ### 📊 **Coding Stats**
 
