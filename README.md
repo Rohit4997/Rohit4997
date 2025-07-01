@@ -16,9 +16,9 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<table>
+<tr>
+<td>
 
 ```javascript
 const rohit = {
@@ -38,6 +38,10 @@ const rohit = {
     lifePhilosophy: "Great code isn't just functional—it's art! 🎨"
 };
 ```
+
+</td>
+<td>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/> </td> </tr> </table>
 
 <details>
 <summary>🎯 <b>My Engineering Journey</b></summary>
