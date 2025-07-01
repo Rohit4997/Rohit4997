@@ -11,7 +11,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Rohit4997&label=Profile%20Views&color=brightgreen&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/Rohit4997?label=Followers&style=for-the-badge&color=blue)
 ![GitHub stars](https://img.shields.io/github/stars/Rohit4997?label=Total%20Stars&style=for-the-badge&color=yellow)
-![Years Badge](https://badges.pufler.dev/years/Rohit4997?style=for-the-badge&color=orange)
 
 </div>
 
@@ -19,7 +18,7 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-<img align="right" alt="Coding" width="460" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```javascript
 const rohit = {
@@ -174,8 +173,6 @@ graph TD
 
 ### ⏰ **Coding Activity**
 
-[![wakatime](https://wakatime.com/badge/user/018c8e6c-2c2f-49ca-9cce-5a12da7f47b5.svg)](https://wakatime.com/@018c8e6c-2c2f-49ca-9cce-5a12da7f47b5)
-
 <!--START_SECTION:waka-->
 ```text
 JavaScript   8 hrs 42 mins   ████████████░░░░░░░░░░░░░   48.32%
@@ -245,14 +242,6 @@ const currentMood = () => {
 
 ---
 
-### 📊 **Coding Stats**
-
-[![wakatime](https://wakatime.com/badge/user/YOUR-WAKATIME-USER-ID.svg)](https://wakatime.com/@YOUR-WAKATIME-USER-ID)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💭 **Philosophy**
@@ -264,14 +253,6 @@ const currentMood = () => {
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50">
 
 **⭐ Star my repos if you find them interesting!**
-
-</div>
-
----
-
-<div align="center">
-  
-![Snake animation](https://github.com/Rohit4997/Rohit4997/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
