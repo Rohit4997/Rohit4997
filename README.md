@@ -1,6 +1,6 @@
 # Rohit Dhakad
 
-**React Native Engineer** · Building consumer mobility apps at national scale · Bengaluru, India
+**Software Development Engineer** · Building consumer mobility apps at national scale · Bengaluru, India
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-4997)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rohitrkd4997@gmail.com)
